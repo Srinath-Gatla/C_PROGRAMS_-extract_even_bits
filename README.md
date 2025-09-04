@@ -10,7 +10,9 @@ Return the compressed value formed by only these bits (shifted to be consecutive
 
 **Output:** 0b1111
 
+
 **Example 2 **
+
 
 **Input:** reg = 0b1010 1010 
 
